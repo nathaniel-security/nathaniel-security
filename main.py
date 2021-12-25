@@ -45,4 +45,4 @@ os.system("git add .")
 
 os.system('git commit -m "UPDATE"')
 os.system("git status")
-os.system("sudo git push")
+os.system("push.sh")
