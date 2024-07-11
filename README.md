@@ -5,9 +5,8 @@
   - Networking
   - Cloud
   - Homelab
-  - Blockchain (the fundamental Tech)
+  - Blockchain 
   - Metaverse
-- 🌱 I’m currently learning a bit of economics and psychology along with building my homelab further (to make my life easier)
 - 📫 How to reach me contact@wehost.co.in
 
 - For More info you can visit wehost.co.in/links
