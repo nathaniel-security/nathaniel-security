@@ -9,7 +9,7 @@
   - Metaverse
 - 📫 How to reach me contact@wehost.co.in
 
-- For More info you can visit wehost.co.in/links
+- For More info you can visit blog.wehost.co.in
 
 
 
