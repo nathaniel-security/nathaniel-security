@@ -1,12 +1,10 @@
 
 - 👋 Hi, I’m @nathaniel-security
 - 👀 I’m an enthusiast in the following
-  - Cybersecuirty
+  - Cybersecurity
   - Networking
   - Cloud
   - Homelab
-  - Blockchain 
-  - Metaverse
 - 📫 How to reach me contact@wehost.co.in
 
 - For More info you can visit blog.wehost.co.in
